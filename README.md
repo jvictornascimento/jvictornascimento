@@ -5,6 +5,5 @@
 
 - 📍 I'm from São Paulo
 - 🔭 I'm a Salesforce Developer
-- 🌱 I’m currently learning Java
 - 💬 Ask me about anything, I will be happy to be in touch with you
 - 📫 How to reach me: Skype: victor55977 | E-Mail: joaovictorna1@gmail.com
