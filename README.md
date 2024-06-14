@@ -1,9 +1,9 @@
 ## Olá eu sou o João Victor 👋
 
 #### Sobre mim
-• Formando em Analise e Desenvolviemnto de Sistemas
+• Formando em Analise e Desenvolvimento de Sistemas
 
-• Focado em Desenvolviemnto Java para Backend
+• Focado em Desenvolvimento Java para Backend
 
 ---
 
