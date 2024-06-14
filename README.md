@@ -10,8 +10,8 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-845b09187/)
 -
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictornascimento&show_icons=true&theme=codeSTACKr  )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&langs_count=8&theme=codeSTACKr )
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictornascimento&show_icons=true&theme=swift   )
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&langs_count=8&theme=swift  )
 -
 ### Principais tecnologias que uso/estudo no meu dia-a-dia
 <div style="display : inline_block"></br>
@@ -27,7 +27,7 @@
 
 
 ### Principais Repositorios
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvictornascimento&repo=workshop-springboot-jpa&theme=codeSTACKr 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvictornascimento&repo=workshop-springboot-jpa&theme=swift  
 )](https://github.com/jvictornascimento/workshop-springboot-jpa)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvictornascimento&repo=course-alura-automated-tests&theme=codeSTACKr 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvictornascimento&repo=course-alura-automated-tests&theme=swift  
 )](https://github.com/jvictornascimento/course-alura-automated-tests)
