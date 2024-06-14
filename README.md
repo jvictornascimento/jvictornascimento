@@ -1,6 +1,6 @@
 ## Olá eu sou o João Victor 👋
 
-[!(Linkedin)(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-845b09187/)
+
 
 <!--
 **jvictornascimento/jvictornascimento** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
