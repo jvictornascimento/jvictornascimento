@@ -31,3 +31,5 @@
 )](https://github.com/jvictornascimento/workshop-springboot-jpa)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvictornascimento&repo=course-alura-automated-tests&theme=swift  
 )](https://github.com/jvictornascimento/course-alura-automated-tests)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jvictornascimento&repo=treinaweb-java-testes-unitarios-junit5s&theme=swift  
+)](https://github.com/jvictornascimento/treinaweb-java-testes-unitarios-junit5)
