@@ -1,18 +1,10 @@
-## Olá eu sou o João Victor 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fff&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+JOÃO+VICTOR+NASCIMENTO;I'm+26+years+old;I+from+Brasil,+SP;I+study+systems+development;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-#### Sobre mim
-• Formando em Analise e Desenvolvimento de Sistemas.
-
-• Focado em Desenvolvimento Java para Backend.
-
--
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-845b09187/)
--
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jvictornascimento&show_icons=true&theme=swift   )
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&langs_count=8&theme=swift  )
--
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvictornascimento&show_icons=true&theme=swift" alt="jvictornascimento github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&layout=compact&hide_border=true&langs_count=8&theme=swift" />
+</div>
+---
 ### Principais tecnologias que uso/estudo no meu dia-a-dia
 <div style="display : inline_block"></br>
     <img alt=java src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
