@@ -4,8 +4,8 @@
 
 <div align="center">
 <a href="https://github.com/jvictornascimento">
-  <img width="55%" height="195px" src="https://github-readme-stats-two-sigma-43.vercel.app/api?username=jvictornascimento&count_private=false&show_icons=true&theme=swift" alt="jvictornascimento github stats" /> 
-  <img width="39%" height="195px" src="https://github-readme-stats-two-sigma-43.vercel.app/api/top-langs/?username=jvictornascimento&layout=compact&hide_border=true&langs_count=8&count_private=false&theme=swift" />
+  <img width="55%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jvictornascimento&count_private=false&show_icons=true&theme=swift" alt="jvictornascimento github stats" /> 
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&layout=compact&hide_border=true&langs_count=8&count_private=false&theme=swift" />
 </a>
 </div>
 
