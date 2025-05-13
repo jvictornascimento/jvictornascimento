@@ -11,6 +11,12 @@ I enjoy working with REST APIs, microservices, and clean code. I learn something
 ---
 
 ## 💻 Hard Skills
+<div><p align="center">
+  <a href="https://skillicons.dev"><br><br>
+    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,idea,postman,mysql,postgres,mongo,redis,rabbitmq,maven,gradle,docker,terraform,aws" />
+  </a>
+</p>
+</div><br>
 
 - **Languages**: Java, Kotlin
 - **Frameworks**: Spring Boot
@@ -20,17 +26,13 @@ I enjoy working with REST APIs, microservices, and clean code. I learn something
 - **Version Control**: Git, GitHub
 - **Architecture**: RESTful APIs, Microservices, Clean Code, AWS
 
-<div >
-<a href="https://github.com/jvictornascimento">
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&layout=compact&hide_border=true&langs_count=8&count_private=false&theme=swift" />
+<div align="center"><br><br>
+<a href="https://github.com/jvictornascimento">  
+  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&layout=compact&hide_border=true&langs_count=8&count_private=false&theme=nord"/>
+  <img width="55%" height="187px" src="https://github-readme-stats.vercel.app/api?username=jvictornascimento&count_private=false&show_icons=true&theme=nord"alt="jvictornascimento github stats"/> 
 </a>
 </div>
-<div><p align="center">
-  <a href="https://skillicons.dev"><br><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,idea,postman,mysql,postgres,mongo,redis,rabbitmq,maven,gradle,docker,terraform,aws" />
-  </a>
-</p>
-</div>
+
 
 
 ---
