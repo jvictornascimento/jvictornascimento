@@ -1,65 +1,66 @@
 # 👨‍💻 João Victor | Backend Developer
 
-Technology is part of my life. For many years, I worked with infrastructure, networks, and information security. Now, I use this background to build backend systems with Java and Spring Boot.
+[🇧🇷 Português](README.md) | [🇺🇸 English](README.en.md)
 
-I enjoy working with REST APIs, microservices, and clean code. I learn something new every day and like to work with good practices in software development.
+Backend developer especializado na construção de APIs REST com Java e Spring Boot, focado na resolução de problemas através de soluções simples e bem estruturadas.
 
-📍 From Pedreira/SP - Brazil  
-📚 Student of Analysis and Systems Development (graduating in 2025)  
-💼 Open to new backend developer opportunities
+Atuo na modelagem de dados, implementação de regras de negócio e organização de aplicações backend, utilizando React/Next.js quando necessário para suporte frontend.
 
----
+💼 Atualmente atuando com desenvolvimento de landing pages e projetos próprios, com foco na construção de soluções backend.
 
-## 💻 Hard Skills
-<div><p align="center">
-  <a href="https://skillicons.dev"><br><br>
-    <img src="https://skillicons.dev/icons?i=java,kotlin,spring,idea,postman,mysql,postgres,mongo,redis,rabbitmq,maven,gradle,docker,terraform,aws" />
-  </a>
+## 🧠 Stack e práticas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,maven,postgres,kafka,idea,postman,react,next,typescript,vercel,docker,jenkins,bash,linux" />
 </p>
-</div><br>
 
-- **Languages**: Java, Kotlin
-- **Frameworks**: Spring Boot
-- **Databases**: PostgreSQL, MongoDB, MySQL
-- **Tools**: Docker, RabbitMQ, Traefik, Maven, Gradle, Swagger, Postman, Terraform
-- **Testing**: JUnit, Mockito
-- **Version Control**: Git, GitHub
-- **Architecture**: RESTful APIs, Microservices, Clean Code, AWS
+- Java + Spring Boot
+- APIs REST
+- Persistência com ORM (JPA/Hibernate)
+- SQL / PostgreSQL
+- Estruturação em camadas (controller, service, repository)
+- Containerização de aplicações com Docker
+- Segurança com Spring Security e JWT
+- Testes automatizados (com foco em evolução para TDD)
 
-<div align="center"><br><br>
-<a href="https://github.com/jvictornascimento">  
-  <img width="39%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvictornascimento&layout=compact&hide_border=true&langs_count=8&count_private=false&theme=nord"/>
-  <img width="55%" height="187px" src="https://github-readme-stats.vercel.app/api?username=jvictornascimento&count_private=false&show_icons=true&theme=nord"alt="jvictornascimento github stats"/> 
-</a>
-</div>
+## ⚙️ Em aprendizado contínuo
 
+- Mensageria com Kafka
+- Integração contínua (Jenkins)
+- Boas práticas de testes e redução de débito técnico
+- Inglês técnico para leitura de documentação e comunicação
 
+## 🚀 Projetos em desenvolvimento
 
----
+**bear-converter**  
+Webservice para conversão de arquivos PDF (exportados de softwares CAD) para DXF editável.
 
-## 🤝 Soft Skills
+**sistema de controle de lote**  
+Aplicação backend para gerenciamento de entradas e rastreabilidade de produtos em estoque.
 
-- Teamwork and communication
-- Problem solving
-- Continuous learning
-- Focus and responsibility
-- Ability to work under pressure
-- Strong foundation in IT and infrastructure
+**bear-planner**  
+Sistema web + app de agenda para gestão de atendimentos, inicialmente focado no uso real (podologia), com futura abertura do projeto como open-source (MIT).
 
----
+## 🧩 Background técnico
 
-## 🚀 Projects
+Experiência prévia de 8 anos com infraestrutura e redes:
+- DNS, DHCP
+- Acesso remoto via SSH
+- Linux e Bash
+- Configuração e apontamento de domínios
 
-| Project                | Description |
-|------------------------|-------------|
-| **URL Shortener**      | A system with Docker and Traefik |
-| **Email Microservice** | Send emails using Spring Mail and RabbitMQ |
-| **Api REST**           | Backend system with services, PostgreSQL, and authentication |
+Esse background contribui para uma visão mais ampla de sistemas, desde a infraestrutura até a aplicação.
 
----
-
-## 📫 Contact
+## 📫 Contato
 
 - [LinkedIn](https://www.linkedin.com/in/joãovictordonascimento)
 - 📧 jvsantosdonascimento@gmail.com
-- 📱 +55 (19) 99668-6866  
+
+## 📊 Contribuições
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jvictornascimento&theme=nord)
+
+<p align="center">
+  <img width="48%" src="https://streak-stats.demolab.com?user=jvictornascimento&theme=nord&locale=pt_BR" />
+  <img width="48%" src="https://github-readme-stats-fast.vercel.app/api?username=jvictornascimento&show_icons=true&theme=nord" />
+</p>
